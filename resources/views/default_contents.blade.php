@@ -7,7 +7,7 @@
 
   <title>{{ config('app.name', 'Laravel') }}</title>
 
-  <meta name="description" content="Ask me Responsive Questions and Answers Template">
+  <meta name="description" content="CXAI">
   <meta name="author" content="vbegy">
   <meta name="robots" content="all,follow">
 
